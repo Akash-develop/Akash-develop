@@ -16,7 +16,7 @@ As a software developer I have 3 years of hands-on experience in React.js, speci
 - 👨🏻‍💻 &nbsp; Most of my projects involve **React.js, Next.js, and MERN Stack**
 - 🎯 &nbsp; I've improved application performance by **30%** and reduced database queries by **40%**
 - 💬 &nbsp; Ask me about **ReactJS, Next.js, TypeScript, or Frontend optimization**
-- 📫 &nbsp; Feel free to reach me at [akashashu02@gmail.com](mailto:akash.p02.dev@gmail.com)
+- 📫 &nbsp; Feel free to reach me at [akash.p02.dev@gmail.com](mailto:akash.p02.dev@gmail.com)
 - 📍 &nbsp; Based in **Chennai, Tamil Nadu**
 - 📚 &nbsp; Always learning and keeping up with the latest frontend trends
 
