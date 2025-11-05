@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Akash P!
 <a href='https://www.linkedin.com/in/akash-p-762381325'><img align='left' alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='18px'/></a>
-<a href='mailto:akashashu02@gmail.com'><img align='left' alt="email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" height='18px'/></a>
+<a href='mailto:akash.p02.dev@gmail.com'><img align='left' alt="email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" height='18px'/></a>
 
 As a software developer I have 3 years of hands-on experience in React.js, specializing in building reusable, readable, and optimized web applications for better performance. I've also worked with LLMs (Large Language Models) and API integrations to develop AI-powered features. Recently, I implemented RAG (Retrieval-Augmented Generation) to enhance data interaction and feed dynamic information into AI systems for smarter responses.
 <br/>
